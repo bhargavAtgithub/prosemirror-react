@@ -1,0 +1,17 @@
+
+.ProseMirror {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    padding: 0;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+}
+
+.ProseMirror:focus {
+    outline: none;
+  }
+  
+.ProseMirror p {
+    margin: 0px;
+}
